@@ -6,6 +6,8 @@ An e-commerce site which utilizes Ruby on Rails and a PostgreSQL database to pro
 
 ![Alt text](./public/application_image.png?raw=true "Little Shop Application")
 
+![Alt text](./public/statsind.png?raw=true)
+
 ## Database Schema
 ![Alt text](./public/Database_1.png?raw=true "Database Schema")
 
