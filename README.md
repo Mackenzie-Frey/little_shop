@@ -41,9 +41,7 @@ Luckily, as the owner of the site you won't have to worry about competing, you'l
 
 (a view of true power!)
 
-Admin users can deactivate merchant and customer accounts, as well as reactivate them.They can upgrade customers into merchants, and downgrade them. They can also view a merchant's dashboard and do anything that merchant would: add and edit items, even fulfill orders. They are simply put:
-
-![Alt text](./public/boss.gif?raw=true)
+Admin users can deactivate merchant and customer accounts, as well as reactivate them.They can upgrade customers into merchants, and downgrade them. They can also view a merchant's dashboard and do anything that merchant would: add and edit items, even fulfill orders.
 
 ## Database Schema
 ![Alt text](./public/Database_1.png?raw=true "Database Schema")
