@@ -1,6 +1,6 @@
 # Little Shop
 
-Little Shop is an e-commerce platform for selling local artisan goods. The site allows users to add items to their cart and to check-out their cart in order to purchase the items from a merchant. Users have the ability to register with an account, which saves their profile and orders to the database. Merchants have the ability to log-in, in order to add items to their inventories, edit existing items, enable/disable items, and fulfill orders. Admin users have access to alter the status' of other merchant and registered users, including the ability to enable/disable a registered user/merchant's account. Admin users also have access to additional analytics and the ability to cancel orders.
+An e-commerce site which utilizes Ruby on Rails and a PostgreSQL database to provide authorization and authentication to admins, merchants, and users. The application integrates functionality for creating items, adding them to the cart, and checking out. Users are able to add items to their cart, check-out, and review their order history. Merchants are able to add additional items to their inventory, edit existing items, enable/disable items, and fulfill orders. Admins have the ability to to enable/disable other users and view additional business intelligence data.
 
 ## [View Little Shop in Production](https://boutique-orders.herokuapp.com/)
 
@@ -8,7 +8,6 @@ Little Shop is an e-commerce platform for selling local artisan goods. The site 
 
 ## Database Schema
 ![Alt text](./public/Database_1.png?raw=true "Database Schema")
-https://dbdiagram.io/d/5c1539dc97b0960014c337df
 
 ## Getting Started
 Clone down the application utilizing the following commands:
@@ -25,9 +24,7 @@ Open a web browser and navigate to `localhost:3000`.
 ## Running Tests
 From terminal, within Little Shop's root directory, run: `rspec`
 
-## Tools Utilized
-* Rails
-* PostrgeSQL
+## Tools
 * Bcrypt
 * Waffle.io
 * GitHub
@@ -42,15 +39,16 @@ From terminal, within Little Shop's root directory, run: `rspec`
 * Faker
 * Picsum Ipsum
 
-#### [Project Specifications](https://github.com/turingschool-projects/little_shop_v2/blob/master/LittleShopRubric.pdf)
 
 ### Authors
-* **Justin Clark** - [jpclark6](https://github.com/jpclark6)
-* **Mackenzie Frey** - [Mackenzie-Frey](https://github.com/Mackenzie-Frey)
-* **Ben Lee** - [bendelonlee](https://github.com/bendelonlee)
-* **Tom Nunez** - [tomjnunez](https://github.com/tomjnunez)
-* **Maddie Jones** - [maddyg91](https://github.com/maddyg91)
+* [Justin Clark](https://github.com/jpclark6)
+* [Mackenzie Frey](https://github.com/Mackenzie-Frey)
+* [Ben Lee](https://github.com/bendelonlee)
+* [Tom Nunez](https://github.com/tomjnunez)
+* [Maddie Jones](https://github.com/maddyg91)
 
 ### Acknowledgments
-* **Ian Douglas** - [iandouglas](https://iandouglas.com/turing/)
-* **Dione Wilson** - [dionew1](https://github.com/dionew1)
+* [Ian Douglas](https://iandouglas.com/turing/)
+* [Dione Wilson](https://github.com/dionew1)
+
+#### [Project Specifications](https://github.com/turingschool-projects/little_shop_v2/blob/master/LittleShopRubric.pdf)
